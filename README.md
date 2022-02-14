@@ -1,20 +1,19 @@
-# Monitoring Views Workshop
+· Consultar la lista de todas las medidas (measurements):
 
-* if you want a easy installation use **pipenv\*** else use **requirements.txt**
+<img width="1253" alt="image" src="https://user-images.githubusercontent.com/69881081/153799597-0f95a1d5-c114-4d3a-a7a4-67088d06de6a.png">
 
-**pipenv:** can be installed wih:
+· Consultar una medida dado su identificador:
 
-```bash
-pip install pipenv
-```
+<img width="1255" alt="image" src="https://user-images.githubusercontent.com/69881081/153799650-a892bd26-93c8-47b1-af8e-f5a68e0fd24e.png">
 
-dont forget to check if you have the right python version: 3.8
+· Crear una medida:
 
-* Executing with pipenv 
-```bash
-pipenv run python {command}
-```
-Example:
-```bash
-pipenv run python manage.py makemigrations 
-```
+<img width="1250" alt="image" src="https://user-images.githubusercontent.com/69881081/153800182-5840d3e1-1e80-45e3-8525-82f6b218bb8f.png">
+
+· Cambiar una medida dado su identificador:
+
+<img width="1250" alt="image" src="https://user-images.githubusercontent.com/69881081/153800289-f1d56631-2492-4ad7-9922-cd1fffa1bfb3.png">
+
+· Borrar una medida dado su identificador:
+
+<img width="1250" alt="image" src="https://user-images.githubusercontent.com/69881081/153800351-ed5396b3-5d49-4031-a885-469cc5bb3e0b.png">
